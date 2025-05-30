@@ -8,7 +8,7 @@ namespace Perceptron
 {
     public class Perceptron
     {
-        private double[] weights;
+        private double[] weights; //
         private double learningRate = 0.1;
         private List<Tuple<double[], int>> trainingData;
 
@@ -75,6 +75,7 @@ namespace Perceptron
                 if (accuracy == 1.0)
                 {
                     TrainingCompleted?.Invoke(this, EventArgs.Empty);
+
                     break;
                 }
             }
