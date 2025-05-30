@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2023 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041D\u0435\u0439\u0440\u043E\u043D\u043D\u0456 \u043C\u0435\u0440\u0435\u0436\u0456\\Laba 1\\Perceptron\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F70A9C95-AE2F-4F60-9A04-014651EBFA19}|Perceptron\\Perceptron.csproj|C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2023 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041D\u0435\u0439\u0440\u043E\u043D\u043D\u0456 \u043C\u0435\u0440\u0435\u0436\u0456\\Laba 1\\Perceptron\\perceptron\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F70A9C95-AE2F-4F60-9A04-014651EBFA19}|Perceptron\\Perceptron.csproj|solutionrelative:perceptron\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F70A9C95-AE2F-4F60-9A04-014651EBFA19}|Perceptron\\Perceptron.csproj|C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2023 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041D\u0435\u0439\u0440\u043E\u043D\u043D\u0456 \u043C\u0435\u0440\u0435\u0436\u0456\\Laba 1\\Perceptron\\perceptron\\pointdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F70A9C95-AE2F-4F60-9A04-014651EBFA19}|Perceptron\\Perceptron.csproj|solutionrelative:perceptron\\pointdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F70A9C95-AE2F-4F60-9A04-014651EBFA19}|Perceptron\\Perceptron.csproj|C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2023 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041D\u0435\u0439\u0440\u043E\u043D\u043D\u0456 \u043C\u0435\u0440\u0435\u0436\u0456\\Laba 1\\Perceptron\\perceptron\\perceptron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F70A9C95-AE2F-4F60-9A04-014651EBFA19}|Perceptron\\Perceptron.csproj|solutionrelative:perceptron\\perceptron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F70A9C95-AE2F-4F60-9A04-014651EBFA19}|Perceptron\\Perceptron.csproj|c:\\!dizox\\\u043B\u0430\u0431\u0438\\\u0447\u043D\u0443\\2023 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u043D\u0435\u0439\u0440\u043E\u043D\u043D\u0456 \u043C\u0435\u0440\u0435\u0436\u0456\\laba 1\\perceptron\\perceptron\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F70A9C95-AE2F-4F60-9A04-014651EBFA19}|Perceptron\\Perceptron.csproj|solutionrelative:perceptron\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F70A9C95-AE2F-4F60-9A04-014651EBFA19}|Perceptron\\Perceptron.csproj|C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2023 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041D\u0435\u0439\u0440\u043E\u043D\u043D\u0456 \u043C\u0435\u0440\u0435\u0436\u0456\\Laba 1\\Perceptron\\perceptron\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F70A9C95-AE2F-4F60-9A04-014651EBFA19}|Perceptron\\Perceptron.csproj|solutionrelative:perceptron\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F70A9C95-AE2F-4F60-9A04-014651EBFA19}|Perceptron\\Perceptron.csproj|C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2023 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041D\u0435\u0439\u0440\u043E\u043D\u043D\u0456 \u043C\u0435\u0440\u0435\u0436\u0456\\Laba 1\\Perceptron\\perceptron\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F70A9C95-AE2F-4F60-9A04-014651EBFA19}|Perceptron\\Perceptron.csproj|solutionrelative:perceptron\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2023 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041D\u0435\u0439\u0440\u043E\u043D\u043D\u0456 \u043C\u0435\u0440\u0435\u0436\u0456\\Laba 1\\Perceptron\\Perceptron\\Program.cs",
+              "RelativeDocumentMoniker": "Perceptron\\Program.cs",
+              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2023 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041D\u0435\u0439\u0440\u043E\u043D\u043D\u0456 \u043C\u0435\u0440\u0435\u0436\u0456\\Laba 1\\Perceptron\\Perceptron\\Program.cs",
+              "RelativeToolTip": "Perceptron\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:05:51.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PointData.cs",
+              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2023 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041D\u0435\u0439\u0440\u043E\u043D\u043D\u0456 \u043C\u0435\u0440\u0435\u0436\u0456\\Laba 1\\Perceptron\\Perceptron\\PointData.cs",
+              "RelativeDocumentMoniker": "Perceptron\\PointData.cs",
+              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2023 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041D\u0435\u0439\u0440\u043E\u043D\u043D\u0456 \u043C\u0435\u0440\u0435\u0436\u0456\\Laba 1\\Perceptron\\Perceptron\\PointData.cs",
+              "RelativeToolTip": "Perceptron\\PointData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:05:51.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2023 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041D\u0435\u0439\u0440\u043E\u043D\u043D\u0456 \u043C\u0435\u0440\u0435\u0436\u0456\\Laba 1\\Perceptron\\Perceptron\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Perceptron\\Form1.Designer.cs",
+              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2023 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041D\u0435\u0439\u0440\u043E\u043D\u043D\u0456 \u043C\u0435\u0440\u0435\u0436\u0456\\Laba 1\\Perceptron\\Perceptron\\Form1.Designer.cs",
+              "RelativeToolTip": "Perceptron\\Form1.Designer.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAswL8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:05:51.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Perceptron.cs",
+              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2023 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041D\u0435\u0439\u0440\u043E\u043D\u043D\u0456 \u043C\u0435\u0440\u0435\u0436\u0456\\Laba 1\\Perceptron\\Perceptron\\Perceptron.cs",
+              "RelativeDocumentMoniker": "Perceptron\\Perceptron.cs",
+              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2023 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041D\u0435\u0439\u0440\u043E\u043D\u043D\u0456 \u043C\u0435\u0440\u0435\u0436\u0456\\Laba 1\\Perceptron\\Perceptron\\Perceptron.cs",
+              "RelativeToolTip": "Perceptron\\Perceptron.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAUwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:05:52.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2023 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041D\u0435\u0439\u0440\u043E\u043D\u043D\u0456 \u043C\u0435\u0440\u0435\u0436\u0456\\Laba 1\\Perceptron\\Perceptron\\Form1.cs",
+              "RelativeDocumentMoniker": "Perceptron\\Form1.cs",
+              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2023 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041D\u0435\u0439\u0440\u043E\u043D\u043D\u0456 \u043C\u0435\u0440\u0435\u0436\u0456\\Laba 1\\Perceptron\\Perceptron\\Form1.cs",
+              "RelativeToolTip": "Perceptron\\Form1.cs",
+              "ViewState": "AgIAAP0AAAAAAAAAAAAAANcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:05:52.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2023 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041D\u0435\u0439\u0440\u043E\u043D\u043D\u0456 \u043C\u0435\u0440\u0435\u0436\u0456\\Laba 1\\Perceptron\\Perceptron\\Form1.cs",
+              "RelativeDocumentMoniker": "Perceptron\\Form1.cs",
+              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2023 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u041D\u0435\u0439\u0440\u043E\u043D\u043D\u0456 \u043C\u0435\u0440\u0435\u0436\u0456\\Laba 1\\Perceptron\\Perceptron\\Form1.cs [Design]",
+              "RelativeToolTip": "Perceptron\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:05:52.509Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
